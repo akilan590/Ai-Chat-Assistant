@@ -41,14 +41,4 @@
 
 ## 🚀 Quick Start
 
-```bash
-# Clone repo
-git clone https://github.com/yourusername/neonglow-ai-chatbot.git
-cd neonglow-ai-chatbot
 
-# Install dependencies
-npm install
-
-# Add your Gemini API key in App.jsx
-# Start development server
-npm start
